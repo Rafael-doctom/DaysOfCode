@@ -13,8 +13,6 @@ This challenge is inspired by [Ismael Apolinario](https://github.com/IAPOLINARIO
 
 - Always write tests for your code.
 
-- Document your progress on Twitter.
-
 ## Progress
 
 | Day | Date       | Project             | Resolution                                                                   |
