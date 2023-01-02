@@ -18,3 +18,4 @@ This challenge is inspired by [Ismael Apolinario](https://github.com/IAPOLINARIO
 | Day | Date       | Project             | Resolution                                                                   |
 | --- | ---------- | ------------------- | ---------------------------------------------------------------------------- |
 | 01  | 01/01/2023 | Convert Age to Days | [Link](./month-01/day-01/index.js) |
+| 02  | 02/01/2023 | Finding Nemo | [Link](./month-01/day-02/index.js) |
