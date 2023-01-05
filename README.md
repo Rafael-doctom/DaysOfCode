@@ -21,4 +21,4 @@ This challenge is inspired by [Ismael Apolinario](https://github.com/IAPOLINARIO
 | 02  | 02/01/2023 | Finding Nemo | [Link](./month-01/day02/index.js) |
 | 03  | 03/01/2023 | Barbecue Skewers  | [Link](./month-01/day03/index.js) |
 | 04  | 04/01/2023 | Progress Goals | [Link](./month-01/day04/index.js) |
-| 05  | 05/01/2023 | pair of Socks  | [Link](./month-01/day05/index.js) |
+| 05  | 05/01/2023 | Pair of Socks  | [Link](./month-01/day05/index.js) |
