@@ -22,3 +22,4 @@ This challenge is inspired by [Ismael Apolinario](https://github.com/IAPOLINARIO
 | 03  | 03/01/2023 | Barbecue Skewers  | [Link](./month-01/day03/index.js) |
 | 04  | 04/01/2023 | Progress Goals | [Link](./month-01/day04/index.js) |
 | 05  | 05/01/2023 | Pair of Socks  | [Link](./month-01/day05/index.js) |
+| 06  | 06/01/2023 | Number prime  | [Link](./month-01/day06/index.js) |
