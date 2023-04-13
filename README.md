@@ -5,7 +5,7 @@ This challenge is inspired by [Ismael Apolinario](https://github.com/IAPOLINARIO
 
 ## Rules
 
-- Code for at least an hour every day for the next 100 days including weekends/holidays.
+- Code for at least an hour every day for the next 100 days including weekends/holidays(it was not this time).
 
 - Don't copy code from other people.
 
