@@ -1,4 +1,4 @@
-# 100 days of code
+# Days of code
 
 This is a repository for my 100 days of code challenge. I will be using this repository to track my progress and to share my code.
 This challenge is inspired by [Ismael Apolinario](https://github.com/IAPOLINARIO/100-days-of-code)
